@@ -6,7 +6,7 @@ var port = process.env.PORT || 5000;
 
 var url1 = '<img src="http://farm9.staticflickr.com/8520/8458417011_cbba27ee41_c.jpg" width="800" height="533" alt="cpwinter.jpg 10">';
 
-var url2 = '<a href="http://www.flickr.com/photos/mdelamerced/8459521986/" title="cpwinter.jpg 6 by mdelamerced, on Flickr"><img src="http://farm9.staticflickr.com/8101/8459521986_46cd50d6d0_c.jpg" width="532" height="800" alt="cpwinter.jpg 6"></a>'
+var url2 = '<a href="http://www.flickr.com/photos/mdelamerced/8459521986/" title="cpwinter.jpg 6 by mdelamerced, on Flickr"><img src="http://farm9.staticflickr.com/8101/8459521986_46cd50d6d0_c.jpg" width="532" height="800" alt="cpwinter.jpg 6"></a>';
 
 var url3 = 
 
